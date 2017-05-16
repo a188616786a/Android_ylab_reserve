@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">易约预约系统</string>
+    <string name="username">帐号：</string>
+    <string name="password">密码：</string>
+    <string name="rememberMe">记住密码</string>
+    <string name="login">登录</string>
+    <string name="reserveDate">预约日期：</string>
+    <string name="reserveStartTime">开始时间：</string>
+    <string name="reserveEndTime">结束时间：</string>
+    <string name="reserve">预约</string>
+    <string name="instrument">实验仪器：</string>
+    <string name="autoReserve">设定自动预约</string>
+    <string name="setAutoReserveTime">自动预约时间</string>
 </resources>

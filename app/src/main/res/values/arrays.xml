@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="instruments">
+        <item>新F20</item>
+        <item>老F20</item>
+    </string-array>
+</resources>
